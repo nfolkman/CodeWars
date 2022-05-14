@@ -1,4 +1,13 @@
-# CodeWars : <a href="https://www.codewars.com/users/nfolkman1" target="_blank">VISIT HERE</a>
+# CodeWars   
+
+
+<h3>Visit Here</h3>
+
+<a href="https://www.codewars.com/users/nfolkman1" target="_blank">
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=lightblue" />
+</a>
+
+<br>
 <br>
 
 ![Screenshot (162 5)](https://user-images.githubusercontent.com/98185555/167752537-c7ec38bf-6a9b-48f0-9e7f-6fed08b45d2d.png)
