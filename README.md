@@ -10,7 +10,8 @@
 <br>
 <br>
 
-![Screenshot (162 5)](https://user-images.githubusercontent.com/98185555/167752537-c7ec38bf-6a9b-48f0-9e7f-6fed08b45d2d.png)
+![Screenshot (183)](https://user-images.githubusercontent.com/98185555/170197724-b0f584ee-8880-4335-b13c-791d43d85cb7.png)
+
 
 <br>
 An accumulation of CodeWars Challenge Solutions
