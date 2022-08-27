@@ -46,7 +46,7 @@ function high(x){
  
      var words = x.split(' '),
        max = 0,
-       res = '';
+       res
    for(let i = 0; i < words.length; i++){
      var word = words[i],
          val = 0;
