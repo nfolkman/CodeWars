@@ -11,10 +11,8 @@
 <br>
 
 
-![Screenshot (211)](https://user-images.githubusercontent.com/98185555/174528850-68ab3acf-50e0-49d9-b248-3743a37443b9.png)
+![Screenshot (293)](https://user-images.githubusercontent.com/98185555/188288416-6e0a76a1-4720-42f1-8263-5bda13b677e5.png)
 
-
-<br>
 An accumulation of CodeWars Challenge Solutions
 <br>
 <br>
