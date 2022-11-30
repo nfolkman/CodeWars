@@ -11,7 +11,7 @@
 <br>
 
 
-![Screenshot (293)](https://user-images.githubusercontent.com/98185555/188288416-6e0a76a1-4720-42f1-8263-5bda13b677e5.png)
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/98185555/204675097-4a3217ba-b7ca-4fe3-8623-904ff5a69315.png">
 
 An accumulation of CodeWars Challenge Solutions
 <br>
